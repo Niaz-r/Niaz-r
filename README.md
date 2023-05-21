@@ -1,4 +1,17 @@
-### Hi there 👋
+
+
+
+
+# Hi, I'm Niaz Rahaman! 👋
+
+I am pursuing my undergraduate studies in Computer Science and Engineering.
+
+## 🛠 Skills
+java, C++, MySQL.....................
+
+Manual testing,Test case writting,API testing,Performance testing,Test execution and reporting 
+
+
 
 <!--
 **Niaz-r/Niaz-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
