@@ -10,17 +10,16 @@
 - 🔹 Strong foundation in **Java, Python, C, and Web Development**  
 - 🔹 Hands-on experience in **Automation Testing (Selenium, TestNG, Extent Reports)**  
 - 🔹 IoT Enthusiast – built a **Smart Footover Bridge** with ESP8266, sensors, and Blynk  
-- 🔹 Experienced in **Batch Management System** for departmental operations  
 - 🔹 Currently learning **Advanced C Programming & Machine Learning**  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java, Python, C, JavaScript  
+- **Languages:**Python, C 
 - **Web:** HTML, CSS, React (basic), Node.js (basic)  
 - **Database:** MySQL, MongoDB (basic)  
 - **Testing & QA:** Selenium, TestNG, JUnit, Postman, Swagger  
-- **IoT & Embedded:** Arduino, ESP8266, Blynk  
+- **IoT & Embedded:** Arduino, Blynk  
 - **Others:** Git, GitHub, Linux (Ubuntu), Agile/Scrum  
 
 ---
